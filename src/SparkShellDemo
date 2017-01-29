@@ -95,4 +95,3 @@ Using SQL :
 val sqlContext = new org.apache.spark.sql.SQLContext(sc)
 
 import sqlContext.implicits._
-Note:
